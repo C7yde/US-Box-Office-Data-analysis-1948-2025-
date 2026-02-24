@@ -27,8 +27,8 @@ The analysis focuses on long-term movie attendance trends, ticket price growth v
 - Library: Pandas  
 
 ### Python File
-You can find the file for the dashboard here:
- [`box_office_analysis_2025.py`](/Python%20analysis%20and%20datasets/box_office_analysis_2025.py). 
+You can find the file for the Python here:
+ [`box_office_analysis_2025.py`](/box_office_analysis_2025.py). 
 ---
 ### Power BI (Dashboard & Visualization)
 
